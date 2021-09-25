@@ -1,2 +1,2 @@
 # SampleBlockchain
-Basic Understanding of Blockchain structure
+Basic code structure of understanding building blocks of blockchain
